@@ -1,185 +1,188 @@
-# Chamodya Rajapaksha
+# 👋 Hi, I'm Chamodya Rajapaksha
 
-**Full-Stack Developer | Information Technology Undergraduate**
-
-Information Technology undergraduate at the Institute of Technology, University of Moratuwa, passionate about software engineering, full-stack development, and building practical technology solutions.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/chamodya-rajapaksha-003a7435b/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin" /></a>
-  <a href="mailto:chamodyarajapaksha088@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ChamodyaRajapaksha08"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" /></a>
-</p>
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Chamodya%20Rajapaksha&fontSize=48&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20IT%20Undergraduate&descSize=18&descAlignY=65" width="100%"/> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=36D7B7&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Applications.;Exploring+AI-Powered+Solutions.;Web+%26+Mobile+Application+Development.;Always+Learning+and+Building+Something+New." alt="Typing SVG"/> 
+  <br/><br/> 
+  <a href="https://www.linkedin.com/in/chamodya-rajapaksha-003a7435b/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="mailto:chamodyarajapaksha088@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href="https://github.com/ChamodyaRajapaksha08"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
+  <br/><br/> 
+  <img src="https://img.shields.io/badge/OPEN%20TO-Software%20Engineering%20Internships-1ABC9C?style=flat-square"/> 
+</div> 
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am an Information Technology undergraduate interested in designing and developing modern software applications. I enjoy working across frontend and backend technologies, exploring AI-powered features, and building solutions that address real-world problems.
+Hi! I'm **Chamodya Rajapaksha**, an **Information Technology undergraduate at the Institute of Technology, University of Moratuwa, Sri Lanka**. I'm passionate about software engineering and enjoy developing modern, user-friendly applications across web and mobile platforms. I love turning ideas into practical solutions by combining frontend development, backend technologies, databases, and intelligent features.
 
-- 🎓 Information Technology Undergraduate – University of Moratuwa (ITUM)
-- 💻 Interested in Full-Stack Development and Software Engineering
-- 🤖 Exploring Artificial Intelligence and intelligent applications
+- 🎓 Studying Information Technology at **University of Moratuwa – ITUM**
+- 💻 Interested in **Full-Stack Development and Software Engineering**
+- 🤖 Exploring **AI integrations and intelligent applications**
 - 📱 Interested in Web and Mobile Application Development
-- 🧪 Interested in Functional Testing, API Testing, and Software Quality
-- 🌱 Continuously learning through practical development projects
-- 💼 Open to Software Engineering Internship Opportunities
+- 🧪 Exploring Functional Testing, API Testing, and Software Quality
+- 🌱 Continuously improving through hands-on projects and learning
+- 🚀 Open to Software Engineering Internship Opportunities
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack & Tools
 
-**Programming Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,dart" />
+### Languages & Frontend
+<p> 
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,go,react,vue,flutter,tailwind&perline=9" /> 
 </p>
 
-**Frontend Development**
+### Backend, Databases & Workflow
+<p> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,git,github&perline=7" /> 
+</p> 
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind" />
-</p>
+<img src="https://img.shields.io/badge/REST%20APIs-INTEGRATION-2563EB?style=for-the-badge"/> <img src="https://img.shields.io/badge/SOCKET.IO-REAL--TIME-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/AI%2FML-MATCHING%20%26%20CHATBOTS-7C3AED?style=for-the-badge"/>
 
-**Backend Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,spring" />
-</p>
-
-**Databases & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
-</p>
-
-**Mobile Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-**Development Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-**Other Technologies & Practices**
-
-`REST APIs` · `Socket.IO` · `AI/ML` · `Responsive UI` · `API Integration` · `Database Design` · `Real-Time Communication` · `Team Collaboration`
+### Development Practices
+`Responsive UI` · `REST API Integration` · `Real-time Communication` · `Database Design` · `Role-based Access` · `Git & GitHub` · `Team Collaboration`
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### DocRoad – Smart Vehicle Repair & Roadside Assistance
+A selection of academic and team projects where I explore software engineering, full-stack development, AI-powered features, and real-world problem solving.
 
-**Final Year Group Project | Frontend Developer**
+<table> 
+<tr> 
+<td width="50%" valign="top"> 
 
-A cross-platform roadside assistance platform that connects vehicle owners with nearby mechanics.
+### 🚗 DocRoad
+**Smart Vehicle Repair & Roadside Assistance**  
+<sub>Final Year Group Project · Frontend Developer</sub> 
 
-- AI-powered mechanic recommendations
-- AI diagnostic chatbot
-- Real-time location tracking
-- Emergency assistance requests
-- QR-based service verification
+A cross-platform roadside assistance platform connecting vehicle owners with nearby mechanics. 
 
-**Technologies:** Flutter, React.js, Node.js, MongoDB, Socket.IO, REST APIs, AI/ML
+**Key Features** 
+- AI-powered mechanic recommendations 
+- AI diagnostic chatbot 
+- Real-time location tracking 
+- Emergency assistance requests 
+- QR-based service verification 
 
-[View Repository](https://github.com/DocRoad)
+**Technologies**  
+`Flutter` `React.js` `Node.js` `MongoDB` `Socket.IO` `REST APIs` `AI/ML`  
 
-### InternMatch AI – AI-Powered Internship Portal
+[🔗 View Repository](https://github.com/DocRoad) 
+</td> 
 
-**Project | Frontend Developer**
+<td width="50%" valign="top"> 
 
-An intelligent internship platform connecting undergraduate students with hiring organizations.
+### 🤖 InternMatch AI
+**AI-Powered Internship Portal**  
+<sub>Project · Frontend Developer</sub> 
 
-- AI-based applicant matching and ranking
-- Skills-based matching algorithm
-- Matching based on recruitment requirements
-- Student and organization workflows
+An intelligent internship platform connecting undergraduate students with hiring organizations. 
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB, AI Matching Algorithm, REST APIs
+**Key Features** 
+- AI-based applicant matching and ranking 
+- Skills-based matching algorithm 
+- Recruitment requirement matching 
+- Student and organization workflows 
 
-[View Repository](https://github.com/ChamodyaRajapaksha08/internmatch-ai)
+**Technologies**  
+`React.js` `Node.js` `Express.js` `MongoDB` `AI Matching Algorithm` `REST APIs`  
 
-### HR Portal – Human Resource Management System
+[🔗 View Repository](https://github.com/ChamodyaRajapaksha08/internmatch-ai) 
+</td> 
+</tr> 
 
-**Project | Full-Stack Developer**
+<tr> 
+<td width="50%" valign="top"> 
 
-A full-stack HR management platform designed to streamline organizational workflows.
+### 🏢 HR Portal
+**Human Resource Management System**  
+<sub>Project · Full-Stack Developer</sub> 
 
-- Dynamic dashboard analytics
-- Role-based department and employee tracking
-- Real-time metrics synchronization
-- Attendance and leave management
+A full-stack HR management platform designed to streamline organizational workflows. 
 
-**Technologies:** Vue.js, Golang, PostgreSQL, REST API, Tailwind CSS
+**Key Features** 
+- Dynamic dashboard analytics 
+- Employee and department management 
+- Real-time metrics synchronization 
+- Attendance and leave management 
 
-[View Repository](https://github.com/ChamodyaRajapaksha08/HR-Portal)
+**Technologies**  
+`Vue.js` `Golang` `PostgreSQL` `REST API` `Tailwind CSS`  
 
-### Student Event Management System
+[🔗 View Repository](https://github.com/ChamodyaRajapaksha08/HR-Portal) 
+</td> 
 
-**University Project | Full-Stack Developer**
+<td width="50%" valign="top"> 
 
-A web application that allows university students to register, manage, and track upcoming campus events.
+### 🎓 Student Event Management System
+**University Event Management Platform**  
+<sub>University Project · Full-Stack Developer</sub> 
 
-- Event registration and management
-- Interactive frontend interface
-- Server-side application logic
-- MySQL relational database integration
+A web application that enables university students to discover, register, and manage campus events. 
 
-**Technologies:** PHP, JavaScript, HTML, CSS, MySQL, Git
+**Key Features** 
+- Event registration and management 
+- Interactive frontend interface 
+- Server-side application logic 
+- MySQL relational database integration 
 
-[View Repository](https://github.com/ChamodyaRajapaksha08/Student_Event_Management_System)
+**Technologies**  
+`PHP` `JavaScript` `HTML` `CSS` `MySQL` `Git`  
 
----
-
-## Education
-
-**Institute of Technology, University of Moratuwa**
-
-Information Technology Undergraduate
-
-**G.C.E. Advanced Level – 2022**
-
-Mathematics Stream
-
----
-
-## Certifications
-
-- Machine Learning Using Python – Simplilearn
-- AI for Business Professionals – HP LIFE
-- Python Essentials 1 – Cisco Networking Academy / OpenEDG
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChamodyaRajapaksha08&show_icons=true&hide_border=true&theme=default" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaRajapaksha08&layout=compact&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=ChamodyaRajapaksha08&theme=default&hide_border=true" />
-</p>
+[🔗 View Repository](https://github.com/ChamodyaRajapaksha08/Student_Event_Management_System) 
+</td> 
+</tr> </table>
 
 ---
 
-## Let's Connect
+## 🎓 Education & Certifications
 
-I am always interested in connecting with developers, recruiters, and professionals, exploring new opportunities, and collaborating on meaningful software projects.
+**Institute of Technology, University of Moratuwa**  
+Information Technology Undergraduate  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/chamodya-rajapaksha-003a7435b/">LinkedIn</a> ·
-  <a href="mailto:chamodyarajapaksha088@gmail.com">Email</a> ·
-  <a href="https://github.com/ChamodyaRajapaksha08">GitHub</a>
-</p>
+**G.C.E. Advanced Level – 2022**  
+Mathematics Stream  
+
+### 📜 Certifications
+- **Machine Learning Using Python** – Simplilearn 
+- **AI for Business Professionals** – HP LIFE 
+- **Python Essentials 1** – Cisco Networking Academy / OpenEDG
 
 ---
 
-<p align="center">
-  <sub>Continuously learning, building, and growing as a software developer.</sub>
-</p>
+## 📊 GitHub Analytics
+
+<div align="center"> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChamodyaRajapaksha08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaRajapaksha08&layout=compact&theme=tokyonight&hide_border=true" /> 
+  <br/><br/> 
+  <img width="80%" src="https://streak-stats.demolab.com?user=ChamodyaRajapaksha08&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> 
+</div>
+
+---
+
+## 🎯 Current Focus
+- Strengthening Full-Stack Development skills
+- Building practical AI-powered applications
+- Improving Software Testing and API Testing knowledge
+- Exploring modern development technologies
+- Developing clean, scalable, and user-friendly applications
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <p><strong>Have an opportunity, an idea, or a project to discuss?</strong></p>
+  <p>I'm always happy to connect with developers, recruiters, and professionals who share an interest in technology and software development.</p>
+  <br/> 
+  <a href="mailto:chamodyarajapaksha088@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href="https://www.linkedin.com/in/chamodya-rajapaksha-003a7435b/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://github.com/ChamodyaRajapaksha08"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
+  <br/><br/> 
+  <h3>Build with purpose. Learn with curiosity. Keep creating.</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/> 
+</div>

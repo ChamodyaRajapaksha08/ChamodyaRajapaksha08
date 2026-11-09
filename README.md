@@ -1,72 +1,94 @@
 # 👋 Hi, I'm Chamodya Rajapaksha
 
-### Full-Stack Developer | IT Undergraduate | Aspiring Software Engineer
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chamodya-rajapaksha-003a7435b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:chamodyarajapaksha088@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ChamodyaRajapaksha08">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Chamodya%20Rajapaksha&fontSize=48&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20IT%20Undergraduate&descSize=18&descAlignY=65" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=36D7B7&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Applications.;Exploring+AI-Powered+Solutions.;Web+%26+Mobile+Application+Development.;Always+Learning+and+Building+Something+New." alt="Typing SVG"/>
 
-## 💫 About Me
+<br/><br/>
 
-I'm an **Information Technology undergraduate at the Institute of Technology, University of Moratuwa**, passionate about building modern, scalable, and user-friendly software applications.
+<a href="https://www.linkedin.com/in/chamodya-rajapaksha-003a7435b/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:chamodyarajapaksha088@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ChamodyaRajapaksha08"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-I enjoy transforming ideas into practical solutions through software development, exploring emerging technologies, and continuously improving my technical skills.
+<br/><br/>
 
-- 🎓 IT Undergraduate – University of Moratuwa, ITUM
-- 💻 Interested in Full-Stack Development and Software Engineering
-- 🤖 Exploring Artificial Intelligence and intelligent application development
-- 🧪 Interested in Software Testing, API Testing, and Quality Assurance
-- 🚀 Building practical applications through academic and personal projects
-- 🌱 Always learning, experimenting, and growing as a developer
-- 💼 Open to Software Engineering Internship Opportunities
+<img src="https://img.shields.io/badge/OPEN%20TO-Software%20Engineering%20Internships-1ABC9C?style=flat-square"/>
+
+</div>
 
 ---
 
-## 🧰 Technologies & Tools
+## 👨‍💻 About Me
+
+Hi! I'm **Chamodya Rajapaksha**, an **Information Technology undergraduate at the Institute of Technology, University of Moratuwa, Sri Lanka**.
+
+I'm passionate about software engineering and enjoy developing modern, user-friendly applications across web and mobile platforms. I love turning ideas into practical solutions by combining frontend development, backend technologies, databases, and intelligent features.
+
+- 🎓 Studying Information Technology at **University of Moratuwa – ITUM**
+- 💻 Interested in **Full-Stack Development and Software Engineering**
+- 🤖 Exploring **AI integrations and intelligent applications**
+- 📱 Interested in Web and Mobile Application Development
+- 🧪 Exploring Functional Testing, API Testing, and Software Quality
+- 🌱 Continuously improving through hands-on projects and learning
+- 🚀 Open to Software Engineering Internship Opportunities
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,dart" />
 </p>
 
 ### 🎨 Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind" />
 </p>
 
 ### ⚙️ Backend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,spring" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Cloud
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
 </p>
 
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
 ### 📱 Mobile Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
+### 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### ⚡ Other Technologies & Practices
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-Integration-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Socket.IO-Real--Time-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML-Intelligent%20Applications-7C3AED?style=for-the-badge"/>
+</p>
+
+`Responsive UI` · `API Integration` · `Database Design` · `Real-Time Communication` · `Git & GitHub` · `Team Collaboration`
+
 ---
 
 ## 🚀 Featured Projects
+
+A selection of academic and team projects where I explore software engineering, full-stack development, AI-powered features, and real-world problem solving.
 
 <table>
 <tr>
@@ -75,17 +97,18 @@ I enjoy transforming ideas into practical solutions through software development
 ### 🚗 DocRoad
 **Smart Vehicle Repair & Roadside Assistance**
 
-Final Year Group Project · Frontend Developer
+<sub>Final Year Group Project · Frontend Developer</sub>
 
 A cross-platform roadside assistance platform connecting vehicle owners with nearby mechanics.
 
+**Key Features**
 - AI-powered mechanic recommendations
 - AI diagnostic chatbot
 - Real-time location tracking
 - Emergency assistance requests
 - QR-based service verification
 
-**Tech Stack**
+**Technologies**
 
 `Flutter` `React.js` `Node.js` `MongoDB` `Socket.IO` `REST APIs` `AI/ML`
 
@@ -97,16 +120,17 @@ A cross-platform roadside assistance platform connecting vehicle owners with nea
 ### 🤖 InternMatch AI
 **AI-Powered Internship Portal**
 
-Project · Frontend Developer
+<sub>Project · Frontend Developer</sub>
 
 An intelligent internship platform connecting undergraduate students with hiring organizations.
 
+**Key Features**
 - AI-based applicant matching and ranking
 - Skills-based matching algorithm
-- Recruitment requirement analysis
+- Recruitment requirement matching
 - Student and organization workflows
 
-**Tech Stack**
+**Technologies**
 
 `React.js` `Node.js` `Express.js` `MongoDB` `AI Matching Algorithm` `REST APIs`
 
@@ -121,16 +145,17 @@ An intelligent internship platform connecting undergraduate students with hiring
 ### 🏢 HR Portal
 **Human Resource Management System**
 
-Project · Full-Stack Developer
+<sub>Project · Full-Stack Developer</sub>
 
 A full-stack HR management platform designed to streamline organizational workflows.
 
+**Key Features**
 - Dynamic dashboard analytics
 - Employee and department management
 - Real-time metrics synchronization
 - Attendance and leave management
 
-**Tech Stack**
+**Technologies**
 
 `Vue.js` `Golang` `PostgreSQL` `REST API` `Tailwind CSS`
 
@@ -142,16 +167,17 @@ A full-stack HR management platform designed to streamline organizational workfl
 ### 🎓 Student Event Management System
 **University Event Management Platform**
 
-University Project · Full-Stack Developer
+<sub>University Project · Full-Stack Developer</sub>
 
 A web application that enables university students to discover, register, and manage campus events.
 
+**Key Features**
 - Event registration and management
 - Interactive frontend interface
 - Server-side application logic
-- Relational database integration
+- MySQL relational database integration
 
-**Tech Stack**
+**Technologies**
 
 `PHP` `JavaScript` `HTML` `CSS` `MySQL` `Git`
 
@@ -163,16 +189,37 @@ A web application that enables university students to discover, register, and ma
 
 ---
 
+## 🎓 Education & Certifications
+
+**Institute of Technology, University of Moratuwa**
+
+Information Technology Undergraduate
+
+**G.C.E. Advanced Level – 2022**
+
+Mathematics Stream
+
+### 📜 Certifications
+
+- **Machine Learning Using Python** – Simplilearn
+- **AI for Business Professionals** – HP LIFE
+- **Python Essentials 1** – Cisco Networking Academy / OpenEDG
+
+---
+
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChamodyaRajapaksha08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaRajapaksha08&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=ChamodyaRajapaksha08&theme=tokyonight&hide_border=true" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChamodyaRajapaksha08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaRajapaksha08&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=ChamodyaRajapaksha08&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
@@ -181,21 +228,29 @@ A web application that enables university students to discover, register, and ma
 - Strengthening Full-Stack Development skills
 - Building practical AI-powered applications
 - Improving Software Testing and API Testing knowledge
-- Exploring modern development tools and technologies
-- Preparing for Software Engineering internship opportunities
+- Exploring modern development technologies
+- Developing clean, scalable, and user-friendly applications
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, learning from experienced professionals, and collaborating on meaningful software projects.
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/ChamodyaRajapaksha08">GitHub</a> •
-  <a href="https://www.linkedin.com/in/chamodya-rajapaksha-003a7435b/">LinkedIn</a> •
-  <a href="mailto:chamodyarajapaksha088@gmail.com">Email</a>
-</p>
+**Have an opportunity, an idea, or a project to discuss?**
 
-<p align="center">
-  <i>"Building, learning, and improving — one project at a time."</i>
-</p>
+I'm always happy to connect with developers, recruiters, and professionals who share an interest in technology and software development.
+
+<br/>
+
+<a href="mailto:chamodyarajapaksha088@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/chamodya-rajapaksha-003a7435b/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ChamodyaRajapaksha08"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+✨ **Build with purpose. Learn with curiosity. Keep creating.** ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+
+</div>

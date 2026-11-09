@@ -158,6 +158,7 @@ Physical Science Stream
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChamodyaRajapaksha08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaRajapaksha08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/><br/>
   <img width="80%" src="https://streak-stats.demolab.com?user=ChamodyaRajapaksha08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />

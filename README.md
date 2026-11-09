@@ -11,6 +11,24 @@
   <img src="https://img.shields.io/badge/OPEN%20TO-Software%20Engineering%20Internships-1ABC9C?style=flat-square"/> 
 </div> 
 
+---<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=[Your%20Name]&fontSize=56&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20IT%20Undergraduate&descSize=20&descAlignY=65" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36D7B7&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+AI+features.;Web+%2B+Mobile+%7C+React+%7C+Vue+%7C+Flutter" alt="Typing SVG"/>
+
+<br/>
+
+<a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:[your email]"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ChamodyaRajapaksha08"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO-Software%20Engineering%20Internships-1abc9c?style=flat-square"/>
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me

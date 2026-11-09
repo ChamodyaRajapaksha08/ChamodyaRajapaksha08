@@ -7,7 +7,7 @@
 </p>
 
 ## 👩‍💻 About Me
-[Short intro: university, what you study, what you enjoy building.]
+
 
 - 🎓 Studying Information Technology  at Institute Of Technology University Of Moratuwa
 - 💻 Interested in Software Engineering and Full-Stack Development

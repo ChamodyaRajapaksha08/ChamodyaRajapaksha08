@@ -1,217 +1,141 @@
-# 👋 Hi, I'm Chamodya Rajapaksha
+# Chamodya Rajapaksha
 
-<div align="center">
+**Full-Stack Developer | Information Technology Undergraduate**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:1E3A8A,100:7C3AED&height=230&section=header&text=CHAMODYA%20RAJAPAKSHA&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20IT%20Undergraduate&descSize=18&descAlignY=60" width="100%"/>
+Information Technology undergraduate at the Institute of Technology, University of Moratuwa, passionate about software engineering, full-stack development, and building practical technology solutions.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+Modern+Full-Stack+Applications.;Exploring+AI-Powered+Solutions.;Web+%26+Mobile+Application+Development.;Turning+Ideas+Into+Real-World+Solutions." alt="Typing SVG"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/chamodya-rajapaksha-003a7435b/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:chamodyarajapaksha088@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ChamodyaRajapaksha08"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-1E293B?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OPEN%20TO-SOFTWARE%20ENGINEERING%20INTERNSHIPS-0891B2?style=flat-square"/>
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/chamodya-rajapaksha-003a7435b/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin" /></a>
+  <a href="mailto:chamodyarajapaksha088@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ChamodyaRajapaksha08"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" /></a>
+</p>
 
 ---
 
-## <img src="https://img.shields.io/badge/01-ABOUT%20ME-2563EB?style=flat-square"/> 👨‍💻 About Me
+## About Me
 
-Hi! I'm **Chamodya Rajapaksha**, an Information Technology undergraduate at the **Institute of Technology, University of Moratuwa, Sri Lanka**.
-
-I'm passionate about software engineering and enjoy developing modern, user-friendly applications across web and mobile platforms. I love transforming ideas into practical solutions by combining frontend development, backend technologies, databases, and intelligent features.
+I am an Information Technology undergraduate interested in designing and developing modern software applications. I enjoy working across frontend and backend technologies, exploring AI-powered features, and building solutions that address real-world problems.
 
 - 🎓 Information Technology Undergraduate – University of Moratuwa (ITUM)
-- 💻 Interested in Software Engineering and Full-Stack Development
-- 🤖 Exploring AI integrations and intelligent applications
+- 💻 Interested in Full-Stack Development and Software Engineering
+- 🤖 Exploring Artificial Intelligence and intelligent applications
 - 📱 Interested in Web and Mobile Application Development
-- 🧪 Exploring Functional Testing, API Testing, and Software Quality
-- 🌱 Always learning and improving through hands-on projects
-- 🚀 Open to Software Engineering Internship Opportunities
+- 🧪 Interested in Functional Testing, API Testing, and Software Quality
+- 🌱 Continuously learning through practical development projects
+- 💼 Open to Software Engineering Internship Opportunities
 
 ---
 
-## <img src="https://img.shields.io/badge/02-TECHNOLOGIES-7C3AED?style=flat-square"/> ⚡ Tech Stack & Tools
+## Technical Skills
 
-### 💻 Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F59E0B"/>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15"/>
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart&logoColor=22D3EE"/>
-</p>
-
-### 🎨 Frontend Development
+**Programming Languages**
 
 <p>
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vue.js-111827?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,dart" />
 </p>
 
-### ⚙️ Backend Development
+**Frontend Development**
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=68A063"/>
-<img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00ADD8"/>
-<img src="https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind" />
 </p>
 
-### 🗄️ Databases & Cloud
+**Backend Development**
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,spring" />
 </p>
 
-### 📱 Mobile Development
+**Databases & Cloud**
 
 <p>
-<img src="https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=54C5F8"/>
-<img src="https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart&logoColor=22D3EE"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
 </p>
 
-### 🔧 Development Tools
+**Mobile Development**
 
 <p>
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-### ✨ Other Technologies & Practices
+**Development Tools**
 
 <p>
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Socket.IO-111827?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/AI%2FML-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REAL--TIME-0891B2?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-`Responsive UI` · `API Integration` · `Database Design` · `Real-Time Communication` · `Git & GitHub` · `Team Collaboration`
+**Other Technologies & Practices**
+
+`REST APIs` · `Socket.IO` · `AI/ML` · `Responsive UI` · `API Integration` · `Database Design` · `Real-Time Communication` · `Team Collaboration`
 
 ---
 
-## <img src="https://img.shields.io/badge/03-PROJECTS-2563EB?style=flat-square"/> 🚀 Featured Projects
+## Featured Projects
 
-A collection of academic and team projects focused on full-stack development, intelligent applications, and practical problem-solving.
+### DocRoad – Smart Vehicle Repair & Roadside Assistance
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Final Year Group Project | Frontend Developer**
 
-### 🚗 DocRoad
-**Smart Vehicle Repair & Roadside Assistance**
+A cross-platform roadside assistance platform that connects vehicle owners with nearby mechanics.
 
-<sub>FINAL YEAR GROUP PROJECT · FRONTEND DEVELOPER</sub>
-
-A cross-platform roadside assistance platform connecting vehicle owners with nearby mechanics.
-
-**Key Features**
 - AI-powered mechanic recommendations
 - AI diagnostic chatbot
 - Real-time location tracking
 - Emergency assistance requests
 - QR-based service verification
 
-**Tech Stack**
+**Technologies:** Flutter, React.js, Node.js, MongoDB, Socket.IO, REST APIs, AI/ML
 
-`Flutter` `React.js` `Node.js` `MongoDB` `Socket.IO` `REST APIs` `AI/ML`
+[View Repository](https://github.com/DocRoad)
 
-[<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/DocRoad)
+### InternMatch AI – AI-Powered Internship Portal
 
-</td>
-<td width="50%" valign="top">
-
-### 🤖 InternMatch AI
-**AI-Powered Internship Portal**
-
-<sub>PROJECT · FRONTEND DEVELOPER</sub>
+**Project | Frontend Developer**
 
 An intelligent internship platform connecting undergraduate students with hiring organizations.
 
-**Key Features**
 - AI-based applicant matching and ranking
 - Skills-based matching algorithm
-- Recruitment requirement matching
+- Matching based on recruitment requirements
 - Student and organization workflows
 
-**Tech Stack**
+**Technologies:** React.js, Node.js, Express.js, MongoDB, AI Matching Algorithm, REST APIs
 
-`React.js` `Node.js` `Express.js` `MongoDB` `AI Matching Algorithm` `REST APIs`
+[View Repository](https://github.com/ChamodyaRajapaksha08/internmatch-ai)
 
-[<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/ChamodyaRajapaksha08/internmatch-ai)
+### HR Portal – Human Resource Management System
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 HR Portal
-**Human Resource Management System**
-
-<sub>PROJECT · FULL-STACK DEVELOPER</sub>
+**Project | Full-Stack Developer**
 
 A full-stack HR management platform designed to streamline organizational workflows.
 
-**Key Features**
 - Dynamic dashboard analytics
 - Role-based department and employee tracking
 - Real-time metrics synchronization
 - Attendance and leave management
 
-**Tech Stack**
+**Technologies:** Vue.js, Golang, PostgreSQL, REST API, Tailwind CSS
 
-`Vue.js` `Golang` `PostgreSQL` `REST API` `Tailwind CSS`
+[View Repository](https://github.com/ChamodyaRajapaksha08/HR-Portal)
 
-[<img src="https://img.shields.io/badge/VIEW%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/ChamodyaRajapaksha08/HR-Portal)
+### Student Event Management System
 
-</td>
-<td width="50%" valign="top">
+**University Project | Full-Stack Developer**
 
-### 🎓 Student Event Management System
-**University Event Management Platform**
+A web application that allows university students to register, manage, and track upcoming campus events.
 
-<sub>UNIVERSITY PROJECT · FULL-STACK DEVELOPER</sub>
-
-A web application for university students to discover, register, and manage campus events.
-
-**Key Features**
 - Event registration and management
 - Interactive frontend interface
 - Server-side application logic
 - MySQL relational database integration
 
-**Tech Stack**
+**Technologies:** PHP, JavaScript, HTML, CSS, MySQL, Git
 
-`PHP` `JavaScript` `HTML` `CSS` `MySQL` `Git`
-
-[<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/ChamodyaRajapaksha08/Student_Event_Management_System)
-
-</td>
-</tr>
-</table>
+[View Repository](https://github.com/ChamodyaRajapaksha08/Student_Event_Management_System)
 
 ---
 
-## <img src="https://img.shields.io/badge/04-EDUCATION-7C3AED?style=flat-square"/> 🎓 Education & Certifications
-
-### 🎓 Education
+## Education
 
 **Institute of Technology, University of Moratuwa**
 
@@ -221,64 +145,41 @@ Information Technology Undergraduate
 
 Mathematics Stream
 
-### 📜 Certifications
+---
 
-- **Machine Learning Using Python** – Simplilearn
-- **AI for Business Professionals** – HP LIFE
-- **Python Essentials 1** – Cisco Networking Academy / OpenEDG
+## Certifications
+
+- Machine Learning Using Python – Simplilearn
+- AI for Business Professionals – HP LIFE
+- Python Essentials 1 – Cisco Networking Academy / OpenEDG
 
 ---
 
-## <img src="https://img.shields.io/badge/05-ANALYTICS-2563EB?style=flat-square"/> 📊 GitHub Analytics
+## GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChamodyaRajapaksha08&show_icons=true&hide_border=true&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaRajapaksha08&layout=compact&hide_border=true&theme=default" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChamodyaRajapaksha08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaRajapaksha08&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=ChamodyaRajapaksha08&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChamodyaRajapaksha08&bg_color=0d1117&color=60a5fa&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=ChamodyaRajapaksha08&theme=default&hide_border=true" />
+</p>
 
 ---
 
-## <img src="https://img.shields.io/badge/06-CURRENT%20FOCUS-7C3AED?style=flat-square"/> 🎯 What I'm Working On
+## Let's Connect
 
-- Strengthening Full-Stack Development skills
-- Building practical AI-powered applications
-- Improving Software Testing and API Testing knowledge
-- Exploring modern development technologies
-- Developing clean, scalable, and user-friendly applications
+I am always interested in connecting with developers, recruiters, and professionals, exploring new opportunities, and collaborating on meaningful software projects.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/chamodya-rajapaksha-003a7435b/">LinkedIn</a> ·
+  <a href="mailto:chamodyarajapaksha088@gmail.com">Email</a> ·
+  <a href="https://github.com/ChamodyaRajapaksha08">GitHub</a>
+</p>
 
 ---
 
-## <img src="https://img.shields.io/badge/07-CONTACT-2563EB?style=flat-square"/> 🤝 Let's Connect
-
-<div align="center">
-
-### Let's Build Something Great Together!
-
-I'm always interested in connecting with developers, recruiters, and professionals who share a passion for technology and software development.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/chamodya-rajapaksha-003a7435b/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<a href="mailto:chamodyarajapaksha088@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<a href="https://github.com/ChamodyaRajapaksha08"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-1E293B?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-**✨ Build with purpose. Learn with curiosity. Keep creating. ✨**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:1E3A8A,100:7C3AED&height=130&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <sub>Continuously learning, building, and growing as a software developer.</sub>
+</p>

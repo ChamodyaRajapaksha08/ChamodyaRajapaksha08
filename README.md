@@ -1,37 +1,61 @@
-<h1 align="center">Hi, I'm Chamodya Rajapaksha 👋</h1>
-<h3 align="center">[Full-Stack Developer | IT Undergraduate]</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chamodya-rajapaksha-003a7435b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:chamodyarajapaksha088@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=[Your%20Name]&fontSize=56&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20IT%20Undergraduate&descSize=20&descAlignY=65" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36D7B7&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+AI+features.;Web+%2B+Mobile+%7C+React+%7C+Vue+%7C+Flutter" alt="Typing SVG"/>
+
+<br/>
+
+<a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:[your email]"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ChamodyaRajapaksha08"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO-Software%20Engineering%20Internships-1abc9c?style=flat-square"/>
+
+</div>
+
+---
+
+## 👋 About Me
+
+Hi! I'm **[Your Name]**, an **Information Technology undergraduate at [Your University], Sri Lanka**.
+
+I enjoy building complete products, from the user interface on web and mobile to the APIs and databases behind them. My recent work includes an AI-powered internship matching platform, an HR management system, and a roadside assistance app with real-time tracking.
+
+- 🎓 Studying Information Technology at **[Your University]**
+- 💻 Working across **React, Vue, Flutter, Node.js and Go**
+- 🤖 Exploring **AI-powered features** such as matching, ranking and chatbots
+- 🌱 Learning by building real, team-based projects
+- 🚀 Open to **Software Engineering internship** opportunities
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,go,react,vue,flutter,tailwind&perline=9" />
 </p>
 
-## 👩‍💻 About Me
+### Backend, Databases & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,git,github&perline=7" />
+</p>
 
+<img src="https://img.shields.io/badge/REST%20APIs-INTEGRATION-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOCKET.IO-REAL--TIME-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-MATCHING%20%26%20CHATBOTS-7C3AED?style=for-the-badge"/>
 
-- 🎓 Studying Information Technology  at Institute Of Technology University Of Moratuwa
-- 💻 Interested in Software Engineering and Full-Stack Development
-- 🤖 Exploring AI integrations and intelligent applications
-- 🧪 Interested in functional testing, API testing, and quality-focused development
-- 🌱 Always learning and improving through hands-on projects
-- 🚀 Open to Software Engineering internship opportunities
+### Development Practices
+`Responsive UI` · `REST API Integration` · `Real-time Communication` · `Database Design` · `Role-based Access` · `Git & GitHub` · `Team Collaboration`
 
-## 🛠️ Tech Stack
-**Languages & Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend & Tools:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+---
 
 ## 🚀 Featured Projects
+
+A selection of academic and team projects where I've built full-stack applications, AI-based features and real-time systems.
 
 <table>
   <tr>
@@ -47,7 +71,7 @@
       </ul>
       <b>Technologies:</b><br>
       Flutter · React.js · Node.js · MongoDB · Socket.IO · REST APIs · AI/ML<br><br>
-      <a href="https://github.com/DocRoad">View Repository →</a>
+      <a href="DocRoad-repo-link">View Repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 InternMatch AI – Internship Portal</h3>
@@ -56,7 +80,6 @@
       <ul>
         <li>AI-based applicant matching and ranking</li>
         <li>Matching based on skills and recruitment requirements</li>
-        <li>Student and organisation workflows</li>
       </ul>
       <b>Technologies:</b><br>
       React.js · Node.js · Express.js · MongoDB · AI Matching Algorithm · REST APIs<br><br>
@@ -94,10 +117,46 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChamodyaRajapaksha08&show_icons=true&theme=tokyonight"/>
-</p>
+<sub><i>Project descriptions summarise the work and functionality. Please visit each repository for details.</i></sub>
+
+---
+
+## 🎓 Education & Certification
+
+**[Your University]**
+[Your Degree] · [Start Year] – Present · Sri Lanka
+
+**[Your School]**
+G.C.E. Advanced Level · [Stream] · [Years]
+
+**Certification:** [Add a certificate you actually have, or delete this line]
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ChamodyaRajapaksha08&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
 
 ## 🤝 Let's Connect
-Open to developers, recruiters and teams working on meaningful software.
+
+<div align="center">
+
+**Have an opportunity, an idea, or a project to discuss?**
+
+I'm open to connecting with developers, recruiters and teams working on meaningful software.
+
+<a href="mailto:[your email]"><img src="https://img.shields.io/badge/EMAIL-[your%20email]-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ChamodyaRajapaksha08"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+✨ **Build with purpose. Learn with curiosity.** ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>

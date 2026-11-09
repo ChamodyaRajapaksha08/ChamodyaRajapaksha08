@@ -32,11 +32,67 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🚀 Featured Projects
-| Project | Description | Tech |
-|---|---|---|
-| [Student-management-system](https://github.com/ChamodyaRajapaksha08/Student-management-system) | [one line] | [tech] |
-| [ExamIGO](https://github.com/ChamodyaRajapaksha08/ExamIGO-QR-based-Attendance-System) | [one line] | [tech] |
-| [my-portfolio](https://github.com/ChamodyaRajapaksha08/my-portfolio) | [one line] | [tech] |
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 DocRoad – Roadside Assistance</h3>
+      <b>Final Year Group Project · Frontend Developer</b>
+      <p>A cross-platform roadside assistance platform that connects vehicle owners with nearby mechanics.</p>
+      <ul>
+        <li>AI-powered mechanic recommendations</li>
+        <li>AI diagnostic chatbot</li>
+        <li>Real-time location tracking</li>
+        <li>Emergency requests and QR-based service verification</li>
+      </ul>
+      <b>Technologies:</b><br>
+      Flutter · React.js · Node.js · MongoDB · Socket.IO · REST APIs · AI/ML<br><br>
+      <a href="https://github.com/DocRoad">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 InternMatch AI – Internship Portal</h3>
+      <b>Project · Frontend Developer</b>
+      <p>An intelligent internship platform connecting undergraduate students with hiring organisations.</p>
+      <ul>
+        <li>AI-based applicant matching and ranking</li>
+        <li>Matching based on skills and recruitment requirements</li>
+        <li>Student and organisation workflows</li>
+      </ul>
+      <b>Technologies:</b><br>
+      React.js · Node.js · Express.js · MongoDB · AI Matching Algorithm · REST APIs<br><br>
+      <a href="https://github.com/ChamodyaRajapaksha08/internmatch-ai">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 HR Portal – HR Management System</h3>
+      <b>Project · Full Stack Developer</b>
+      <p>A full-stack enterprise HR management system that streamlines organisational workflows.</p>
+      <ul>
+        <li>Dynamic dashboard analytics</li>
+        <li>Role-based department and employee tracking</li>
+        <li>Real-time metrics synchronisation</li>
+        <li>Attendance and leave handling</li>
+      </ul>
+      <b>Technologies:</b><br>
+      Vue.js · Golang · PostgreSQL · REST API · Tailwind CSS<br><br>
+      <a href="https://github.com/ChamodyaRajapaksha08/HR-Portal">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Student Event Management System</h3>
+      <b>University Project · Full-Stack</b>
+      <p>A web application for university students to register, manage, and track upcoming campus events.</p>
+      <ul>
+        <li>Server-side logic built with PHP</li>
+        <li>Interactive front end with JavaScript, HTML and CSS</li>
+        <li>MySQL relational database, Git version control</li>
+      </ul>
+      <b>Technologies:</b><br>
+      PHP · JavaScript · HTML · CSS · MySQL · Git<br><br>
+      <a href="https://github.com/ChamodyaRajapaksha08/Student_Event_Management_System">View Repository →</a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 <p align="center">

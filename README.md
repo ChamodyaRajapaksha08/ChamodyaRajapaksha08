@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chamodya Rajapaksha
+#  Chamodya Rajapaksha
 
 ### Full-Stack Developer | IT Undergraduate | Aspiring Software Engineer
 
@@ -16,7 +16,7 @@
 
 
 
-## 👨‍💻 About Me
+## 👋 About Me
 
 Hi! I'm **Chamodya Rajapaksha**, an **Information Technology undergraduate at the Institute of Technology, University of Moratuwa, Sri Lanka**. I'm passionate about software engineering and enjoy developing modern, user-friendly applications across web and mobile platforms. I love turning ideas into practical solutions by combining frontend development, backend technologies, databases, and intelligent features.
 

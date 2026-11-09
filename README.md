@@ -38,53 +38,22 @@ I'm passionate about software engineering and enjoy developing modern, user-frie
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Programming Languages
-
+### Languages & Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,dart" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,go,react,vue,flutter,tailwind&perline=9" />
 </p>
 
-### 🎨 Frontend Development
-
+### Backend, Databases & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,git,github&perline=7" />
 </p>
 
-### ⚙️ Backend Development
+<img src="https://img.shields.io/badge/REST%20APIs-INTEGRATION-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOCKET.IO-REAL--TIME-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-MATCHING%20%26%20CHATBOTS-7C3AED?style=for-the-badge"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,spring" />
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
-</p>
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### 🔧 Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-### ⚡ Other Technologies & Practices
-
-<p>
-  <img src="https://img.shields.io/badge/REST%20APIs-Integration-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Socket.IO-Real--Time-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Intelligent%20Applications-7C3AED?style=for-the-badge"/>
-</p>
-
-`Responsive UI` · `API Integration` · `Database Design` · `Real-Time Communication` · `Git & GitHub` · `Team Collaboration`
-
----
+### Development Practices
+`Responsive UI` · `REST API Integration` · `Real-time Communication` · `Database Design` · `Role-based Access` · `Git & GitHub` · `Team Collaboration`
 
 ## 🚀 Featured Projects
 

@@ -38,7 +38,7 @@ Hi! I'm **Chamodya Rajapaksha**, an **Information Technology undergraduate at th
 
 ### Backend, Databases & Workflow
 <p> 
-  <img src="https://skillicons.dev/icons?i=spring boot,mongodb,postgres,mysql,git,github,docker" /> 
+  <img src="https://skillicons.dev/icons?i=springboot,mongodb,postgres,mysql,git,github,docker" /> 
 </p> 
 
 ### Development Practices

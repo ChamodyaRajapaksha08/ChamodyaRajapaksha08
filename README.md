@@ -18,7 +18,9 @@
 
 ## 👋 About Me
 
-Hi! I'm **Chamodya Rajapaksha**, an **Information Technology undergraduate at the Institute of Technology, University of Moratuwa, Sri Lanka**. I'm passionate about software engineering and enjoy developing modern, user-friendly applications across web and mobile platforms. I love turning ideas into practical solutions by combining frontend development, backend technologies, databases, and intelligent features.
+Hi! I'm **Chamodya Rajapaksha,** an Information Technology undergraduate at the Institute of Technology, University of Moratuwa, Sri Lanka, with a strong passion for software engineering and application development.
+
+I enjoy designing and building modern, user-friendly web and mobile applications by combining frontend and backend technologies, database management, and problem-solving skills. I’m passionate about transforming ideas into practical, efficient, and meaningful digital solutions while continuously learning and exploring emerging technologies.
 
 - 🎓 Studying Information Technology at **University of Moratuwa – ITUM**
 - 💻 Interested in **Full-Stack Development and Software Engineering**

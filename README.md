@@ -150,7 +150,8 @@ Physical Science Stream
 - **Machine Learning Using Python** – Simplilearn 
 - **AI for Business Professionals** – HP LIFE 
 - **Python Essentials 1** – Cisco Networking Academy / OpenEDG
-- **AWS Cloud Practitioner Essentials** – Amazon Web Services (AWS) 
+- **AWS Cloud Practitioner Essentials** – Amazon Web Services (AWS)
+- **Information & Communication Technology Technician NVQ Level 4 – (2024)**
 
 ---
 
